@@ -1,4 +1,4 @@
-php-modules-logsign
+php-modules-logsignd
 
 ===========
 
